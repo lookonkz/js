@@ -1,0 +1,15 @@
+git bash
+  очистка                   --- clear
+
+bower
+  устанока пакетов стандарт --- bower init
+  установка пакетов         --- bower i <пакет> -S -D
+
+  удаление пакетов          --- bower unistall <пакет>
+  удаление из json          --- bower unistall <пакет> -S -D
+
+  обновление пакетов        --- bower update <пакет>
+
+  список версий             --- bower info <пакет>
+  список установленных      --- bower list
+  получить ссылки к файлам  --- bower list --path (--p)

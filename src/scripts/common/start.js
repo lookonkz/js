@@ -1,0 +1,5 @@
+var pull;
+
+pull = 'o';
+
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3RhcnQuanMiLCJzb3VyY2VzIjpbInN0YXJ0LmNvZmZlZSJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxJQUFBOztBQUFBLElBQUEsR0FBTyIsInNvdXJjZXNDb250ZW50IjpbInB1bGwgPSAnbydcclxuIl19
